@@ -1,2 +1,10 @@
-# calculator-app
-A simple calculator built with HTML, CSS, and JavaScript
+# Calculator App
+
+This is a simple calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Perform basic arithmetic operations
+- Simple and clean interface
+
+## Author
+Hauwa'u Muhammad
